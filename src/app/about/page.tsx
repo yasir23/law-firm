@@ -107,7 +107,7 @@ const AboutUsPage = () => {
             Have any questions or need legal assistance? Contact us today to schedule a consultation.
           </p>
           <button className="bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-md hover:bg-blue-800 transition duration-300">
-            Contact Us
+           <a href="/contact" alt="contact"> Contact Us</a>
           </button>
         </div>
       </div>
