@@ -111,7 +111,7 @@ export const Menu = ({
         {/* Logo on the left */}
         <div className="flex flex-shrink-0 items-center space-x-4">
           <Image src="/WhatsApp_Image_2024-10-05_at_6.53.18_PM-removebg-preview.png" width={50} height={50} alt="logo" />
-          <h1 className="font-bold text-xl sm:text-2xl lg:text-3xl"><a href="/">Awaz Association of Justice®</a></h1>
+          <h1 className="font-bold text-lg sm:text-2xl lg:text-3xl"><a href="/">Awaz Association of Justice®</a></h1>
         </div>
 
         <div className="hidden md:flex space-x-4 items-center"> 
