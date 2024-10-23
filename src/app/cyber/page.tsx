@@ -16,7 +16,7 @@ const CyberServicesPage = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-100 py-12">
+    <div className="min-h-screen bg-gray-100 py-12 pt-28">
       <div className="container mx-auto px-6">
         <h1 className="text-4xl font-bold text-center text-blue-700 mb-12">Our Cyber Services</h1>
         
