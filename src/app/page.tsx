@@ -11,7 +11,7 @@ import { BackgroundLinesDemo } from "@/components/Lines"
 
 export default function Home() {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col pt-28">
       
       
       <BackgroundLinesDemo/>
