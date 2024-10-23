@@ -5,12 +5,8 @@ const ContactPage = () => {
 
 
 
-    <main><br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-    <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center">
+    <main>
+    <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center pt-28">
       <div className="bg-white shadow-md rounded-lg w-full max-w-lg p-8 mx-4">
         <h1 className="text-3xl font-bold text-center mb-6 text-blue-700">Contact Us</h1>
         <form className="space-y-6">
